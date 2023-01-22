@@ -1,0 +1,22 @@
+{
+  "name": "health-tracker",
+  "version": "1.0.0",
+  "description": "Personal Health Tracker App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdmundDong/health-tracker.git"
+  },
+  "author": "Edmund Dong",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/EdmundDong/health-tracker/issues"
+  },
+  "homepage": "https://github.com/EdmundDong/health-tracker#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
